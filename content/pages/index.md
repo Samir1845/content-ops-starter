@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Created by Samir
-        tagline: Feature 1
+        tagline: Lost
         subtitle: Increase your reach
         text: |
           welcome to Samir's Store
