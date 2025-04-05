@@ -23,12 +23,6 @@
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "ganiesamir147@gmail.com",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
