@@ -71,6 +71,16 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: '/https://fktr.in/RFW2Q3J'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
