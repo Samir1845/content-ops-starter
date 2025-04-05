@@ -1,7 +1,7 @@
 ---
 title: ''
 slug: case-study-1
-date: '2022-01-05'
+date: ''
 excerpt: ''
 featuredImage:
   altText: 'Mens Fashion '
