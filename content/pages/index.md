@@ -86,7 +86,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
+        label: SHOP NOW
         url: /
         icon: arrowRight
         iconPosition: right
