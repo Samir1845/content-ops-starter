@@ -27,7 +27,6 @@ bottomSections:
         tagline: ''
         subtitle: ''
         image:
-          url: /images/telus-logo.svg
           altText: Company logo
           styles:
             self:
