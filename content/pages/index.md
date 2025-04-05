@@ -37,10 +37,6 @@ sections:
         Handpicked products just for you – shop smart, save big!
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
