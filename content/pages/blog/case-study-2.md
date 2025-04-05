@@ -5,7 +5,7 @@ date: ''
 excerpt: ''
 featuredImage:
   url: /images/img-placeholder.svg
-  altText: Case study 2
+  altText: ''
   styles:
     self:
       borderRadius: x-large
