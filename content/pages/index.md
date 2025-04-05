@@ -8,8 +8,7 @@ sections:
         title: Welcome to Samir's Store
         tagline: Lost
         subtitle: Increase your reach
-        text: |
-          welcome to Samir's Store
+        text: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
