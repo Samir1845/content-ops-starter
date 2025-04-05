@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Discover the best online deals in fashion, electronics, beauty & more.
+        Handpicked products just for you – shop smart, save big!
       color: text-dark
       type: TitleBlock
     subtitle: Welcome to Samir's Store
