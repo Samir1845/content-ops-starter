@@ -88,32 +88,6 @@ sections:
           - pl-12
           - pb-12
           - pr-12
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/1000079951.jpg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/1000079955.jpg
-        altText: Wellster logo
-        type: ImageBlock
-      - altText: Vise logo
-        type: ImageBlock
-      - altText: Telus logo
-        type: ImageBlock
-      - altText: Contentful logo
-        type: ImageBlock
-      - altText: Sanity logo
-        type: ImageBlock
-      - altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: GenericSection
     title:
       type: TitleBlock
@@ -142,6 +116,32 @@ sections:
     styles:
       self:
         alignItems: center
+  - subtitle: Award winning enterprises trust us
+    images:
+      - url: /images/1000079951.jpg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/1000079955.jpg
+        altText: Wellster logo
+        type: ImageBlock
+      - altText: Vise logo
+        type: ImageBlock
+      - altText: Telus logo
+        type: ImageBlock
+      - altText: Contentful logo
+        type: ImageBlock
+      - altText: Sanity logo
+        type: ImageBlock
+      - altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
