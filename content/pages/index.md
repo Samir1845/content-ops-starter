@@ -21,6 +21,15 @@ sections:
 
       5\. Your One-Stop Shop for Trending Products!
     actions:
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: '/https://fktr.in/RFW2Q3J'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
       - label: ''
         altText: ''
         url: /
