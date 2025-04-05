@@ -95,7 +95,7 @@ sections:
       title: Title of the video
       url: /images/placeholder-video.mp4
       controls: false
-      aspectRatio: '16:9'
+      aspectRatio: '4:3'
       styles:
         self:
           padding:
