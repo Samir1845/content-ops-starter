@@ -21,7 +21,7 @@ sections:
 
       5\. Your One-Stop Shop for Trending Products!
     actions:
-      - label: Shop now
+      - label: ''
         altText: ''
         url: /
         showIcon: false
