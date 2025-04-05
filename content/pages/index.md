@@ -8,21 +8,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: |+
-      1\. "Best Deals, Smart Shopping – Shop Now!"
+    text: |
+      1\. Best Deals, Smart Shopping – Shop Now!
 
+      2\. Daily Discounts on Top Brands – Check It Out!
 
-      2\. "Daily Discounts on Top Brands – Check It Out!"
+      3\. Save More, Shop Smarter – Tap Here!
 
+      4\. Online Shopping Offers You Can’t Miss!
 
-      3\. "Save More, Shop Smarter – Tap Here!"
-
-
-      4\. "Online Shopping Offers You Can’t Miss!"
-
-
-      5\. "Your One-Stop Shop for Trending Products!"
-
+      5\. Your One-Stop Shop for Trending Products!
     actions:
       - label: Shop now
         altText: ''
