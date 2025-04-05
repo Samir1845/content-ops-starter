@@ -42,6 +42,17 @@ sections:
       subtitle:
         fontWeight: 700
         textAlign: justify
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/1000079951.jpg
