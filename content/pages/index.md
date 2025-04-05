@@ -174,7 +174,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/1000079951.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
