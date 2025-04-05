@@ -39,19 +39,47 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        Discover the best online deals in fashion, electronics, beauty & more.
-        Handpicked products just for you – shop smart, save big!
+      text: ''
       color: text-dark
     subtitle: ''
-    text: |
+    text: ''
+    actions:
+      - type: Button
+        label: SHOP NOW
+        url: 'https://samir1845.github.io/online-store/'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        showIcon: true
+    media:
+      type: ImageBlock
+      altText: Fun feature preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Discover top products
+      color: text-dark
+    subtitle: ''
+    text: >
+      Discover the best online deals in fashion, electronics, beauty & more.
+      Handpicked products just for you – shop smart, save big!
+
+
       1\. Best Deals, Smart Shopping – Shop Now!
+
 
       2\. Daily Discounts on Top Brands – Check It Out!
 
+
       3\. Save More, Shop Smarter – Tap Here!
 
+
       4\. Online Shopping Offers You Can’t Miss!
+
 
       5\. Your One-Stop Shop for Trending Products!
     actions: []
@@ -76,28 +104,6 @@ sections:
       subtitle:
         fontWeight: 700
         textAlign: justify
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: SHOP NOW
-        url: 'https://samir1845.github.io/online-store/'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        showIcon: true
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - subtitle: ''
     images:
       - url: /images/1000079951.jpg
