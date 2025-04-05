@@ -78,7 +78,7 @@ bottomSections:
         style: secondary
         elementId: ''
 isFeatured: true
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     padding:
