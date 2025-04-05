@@ -39,7 +39,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: >-
+        Discover the best online deals in fashion, electronics, beauty & more.
+        Handpicked products just for you – shop smart, save big!
       color: text-dark
     subtitle: ''
     text: |
