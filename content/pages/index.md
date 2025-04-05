@@ -20,16 +20,7 @@ sections:
       4\. Online Shopping Offers You Can’t Miss!
 
       5\. Your One-Stop Shop for Trending Products!
-    actions:
-      - type: Link
-        label: Buy now
-        altText: Buy now
-        url: '/https://fktr.in/RFW2Q3J'
-        showIcon: true
-        icon: shoppingBag
-        iconPosition: left
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       url: /images/1000079950.jpg
       altText: >-
