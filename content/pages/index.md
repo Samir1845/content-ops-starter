@@ -38,11 +38,9 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: >-
-        Discover the best online deals in fashion, electronics, beauty & more.
-        Handpicked products just for you – shop smart, save big!
-      color: text-dark
       type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: ''
     text: |
       1\. Best Deals, Smart Shopping – Shop Now!
