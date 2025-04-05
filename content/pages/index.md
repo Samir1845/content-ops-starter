@@ -87,13 +87,7 @@ sections:
     actions: []
     media:
       type: FormBlock
-      fields:
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
+      fields: []
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
