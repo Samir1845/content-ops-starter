@@ -11,7 +11,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/1000079965.jpg
           altText: Featured item
           styles:
             self:
