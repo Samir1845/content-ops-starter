@@ -30,15 +30,6 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
     media:
       url: /images/1000079950.jpg
       altText: >-
