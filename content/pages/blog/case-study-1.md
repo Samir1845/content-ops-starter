@@ -4,7 +4,6 @@ slug: case-study-1
 date: '2022-01-05'
 excerpt: ''
 featuredImage:
-  url: /images/1000079953.png
   altText: 'Mens Fashion '
   styles:
     self:
