@@ -77,40 +77,6 @@ sections:
       subtitle:
         fontWeight: 700
         textAlign: justify
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: FormBlock
-      fields: []
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    badge:
-      type: Badge
-      label: Contact Us
-      color: text-primary
-    colors: bg-light-fg-dark
   - type: DividerSection
     title: Divider
     elementId: ''
