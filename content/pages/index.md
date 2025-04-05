@@ -87,7 +87,7 @@ sections:
     actions:
       - type: Button
         label: SHOP NOW
-        url: '/https://samir1845.github.io/online-store/'
+        url: 'https://samir1845.github.io/online-store/'
         icon: arrowRight
         iconPosition: right
         style: secondary
