@@ -92,13 +92,6 @@ sections:
         iconPosition: right
         style: secondary
         showIcon: true
-      - type: Link
-        label: ''
-        url: 'https://samir1845.github.io/online-store/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       altText: Fun feature preview
