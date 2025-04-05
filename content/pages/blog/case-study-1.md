@@ -14,6 +14,7 @@ featuredImage:
     self:
       borderRadius: large
   type: ImageBlock
+  elementId: Bb.jpg
 bottomSections:
   - title: Divider
     colors: bg-light-fg-dark
