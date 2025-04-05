@@ -44,7 +44,7 @@ sections:
         Handpicked products just for you – shop smart, save big!
       color: text-dark
       type: TitleBlock
-    subtitle: Welcome to Samir's Store
+    subtitle: ''
     text: |
       1\. Best Deals, Smart Shopping – Shop Now!
 
