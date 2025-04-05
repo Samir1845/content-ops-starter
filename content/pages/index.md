@@ -88,13 +88,6 @@ sections:
     media:
       type: FormBlock
       fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
         - type: EmailFormControl
           name: email
           label: Email
