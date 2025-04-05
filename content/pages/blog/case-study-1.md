@@ -23,7 +23,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: ''
         tagline: This is the tagline
         subtitle: ''
         image:
