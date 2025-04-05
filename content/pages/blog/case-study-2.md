@@ -28,7 +28,7 @@ bottomSections:
   - items:
       - title: ''
         tagline: ''
-        subtitle: 'Lorem ipsum dolor sit amet, conse'
+        subtitle: ''
         image:
           url: /images/telus-logo.svg
           altText: Company logo
