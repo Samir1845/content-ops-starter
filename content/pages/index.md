@@ -61,7 +61,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: Discover top products
       color: text-dark
     subtitle: ''
     text: >
