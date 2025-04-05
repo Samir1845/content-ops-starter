@@ -3,13 +3,6 @@ title: ''
 slug: case-study-2
 date: ''
 excerpt: ''
-featuredImage:
-  url: /images/img-placeholder.svg
-  altText: ''
-  styles:
-    self:
-      borderRadius: x-large
-  type: ImageBlock
 bottomSections: []
 isFeatured: true
 colors: bg-light-fg-dark
