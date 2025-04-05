@@ -9,7 +9,7 @@ sections:
         Handpicked products just for you – shop smart, save big!
       color: text-dark
       type: TitleBlock
-    subtitle: Welcome to Samir's Storehjbvuv6v6vy8 8yc8c8yviyviy I 8vy8v8yv
+    subtitle: Welcome to Samir's Store
     text: |
       1\. Best Deals, Smart Shopping – Shop Now!
 
