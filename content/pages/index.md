@@ -116,7 +116,7 @@ sections:
     styles:
       self:
         alignItems: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: ''
     images:
       - url: /images/1000079951.jpg
         altText: Empathy logo
