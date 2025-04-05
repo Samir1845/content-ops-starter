@@ -91,6 +91,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        showIcon: true
       - type: Link
         label: ''
         url: 'https://samir1845.github.io/online-store/'
