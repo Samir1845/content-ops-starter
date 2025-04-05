@@ -5,7 +5,7 @@ date: '2022-01-05'
 excerpt: ''
 featuredImage:
   url: /images/1000079953.png
-  altText: Case study 1
+  altText: 'Mens Fashion '
   styles:
     self:
       borderRadius: large
