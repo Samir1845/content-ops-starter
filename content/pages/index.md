@@ -42,7 +42,7 @@ sections:
       text: >-
         Discover the best online deals in fashion, electronics, beauty & more.
         Handpicked products just for you – shop smart, save big!
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: |
