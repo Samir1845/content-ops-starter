@@ -1,6 +1,6 @@
 {
     "light": "#ffffff",
-    "dark": "#4A4A4A",
+    "dark": "#020302",
     "neutral": "#E8E8EB",
     "neutralAlt": "#DCDCDC",
     "primary": "#2a2a2a",
@@ -55,13 +55,13 @@
         "type": "ThemeStyleHeading"
     },
     "buttonPrimary": {
-        "weight": "normal",
+        "weight": "bold",
         "case": "none",
         "letterSpacing": "normal",
-        "borderRadius": "DEFAULT",
+        "borderRadius": "lg",
         "shadow": "none",
         "horizontalPadding": 30,
-        "verticalPadding": 12,
+        "verticalPadding": 16,
         "type": "ThemeStyleButton"
     },
     "buttonSecondary": {
