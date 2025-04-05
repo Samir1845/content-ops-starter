@@ -61,9 +61,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        Discover the best online deals in fashion, electronics, beauty & more.
-        Handpicked products just for you – shop smart, save big!
+      text: ''
       color: text-dark
     subtitle: ''
     text: >
