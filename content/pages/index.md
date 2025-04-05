@@ -66,14 +66,22 @@ sections:
         Handpicked products just for you – shop smart, save big!
       color: text-dark
     subtitle: ''
-    text: |
+    text: >
+      Discover the best online deals in fashion, electronics, beauty & more.
+      Handpicked products just for you – shop smart, save big!
+
+
       1\. Best Deals, Smart Shopping – Shop Now!
+
 
       2\. Daily Discounts on Top Brands – Check It Out!
 
+
       3\. Save More, Shop Smarter – Tap Here!
 
+
       4\. Online Shopping Offers You Can’t Miss!
+
 
       5\. Your One-Stop Shop for Trending Products!
     actions: []
