@@ -30,7 +30,9 @@ sections:
         type: Button
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: >-
+        Discover the best online deals in fashion, electronics, beauty & more.
+        Handpicked products just for you – shop smart, save big!
       elementId: ''
       type: ImageBlock
     badge:
