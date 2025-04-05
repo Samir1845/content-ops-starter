@@ -2,6 +2,40 @@
 title: Home
 slug: /
 sections:
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Welcome to Samir's Store
+        tagline: Lost
+        subtitle: Increase your reach
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/1000079965.jpg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       text: >-
@@ -42,40 +76,6 @@ sections:
       subtitle:
         fontWeight: 700
         textAlign: justify
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Welcome to Samir's Store
-        tagline: Lost
-        subtitle: Increase your reach
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/1000079965.jpg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
