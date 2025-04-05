@@ -29,7 +29,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/1000079950.jpg
       altText: >-
         Discover the best online deals in fashion, electronics, beauty & more.
         Handpicked products just for you – shop smart, save big!
