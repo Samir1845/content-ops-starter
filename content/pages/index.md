@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Created by Samir
+        title: Welcome to Samir's Store
         tagline: Lost
         subtitle: Increase your reach
         text: |
