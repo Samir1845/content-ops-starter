@@ -11,7 +11,8 @@
                 ],
                 "borderWidth": 0,
                 "borderRadius": "xx-small",
-                "borderColor": "border-primary"
+                "borderColor": "border-primary",
+                "borderStyle": "none"
             }
         },
         "type": "ImageBlock",
