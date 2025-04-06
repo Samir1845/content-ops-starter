@@ -11,7 +11,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/1000079965.jpg
+          url: /images/1000080330.png
           altText: Featured item
           styles:
             self:
