@@ -66,7 +66,7 @@ sections:
           - pl-7
         margin:
           - ml-5
-          - mt-1
+          - mt-4
         justifyContent: center
   - type: GenericSection
     title:
