@@ -119,10 +119,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-14
-          - pl-10
-          - pb-16
-          - pr-11
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         margin:
           - mt-1
       subtitle:
