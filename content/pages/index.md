@@ -140,6 +140,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        margin:
+          - mt-1
       subtitle:
         textAlign: center
     type: ImageGallerySection
