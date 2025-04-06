@@ -9,7 +9,8 @@
             }
         },
         "type": "ImageBlock",
-        "url": "/images/1000080324.jpg"
+        "url": "/images/1000080324.jpg",
+        "elementId": "12"
     },
     "primaryLinks": [],
     "secondaryLinks": [],
