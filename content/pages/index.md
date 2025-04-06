@@ -63,10 +63,10 @@ sections:
       self:
         alignItems: center
         padding:
-          - pl-6
+          - pl-5
           - pt-2
         margin:
-          - ml-4
+          - ml-3
           - mt-4
         justifyContent: center
   - type: DividerSection
@@ -106,7 +106,7 @@ sections:
       5\. Your One-Stop Shop for Trending Products!
     actions: []
     media:
-      url: /images/1000080325.jpg
+      url: /images/1000080328.jpg
       altText: >-
         Discover the best online deals in fashion, electronics, beauty & more.
         Handpicked products just for you – shop smart, save big!

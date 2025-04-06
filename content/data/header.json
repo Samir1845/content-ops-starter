@@ -4,12 +4,23 @@
         "styles": {
             "self": {
                 "margin": [
-                    "mr-3"
-                ]
+                    "mr-0",
+                    "mb-6",
+                    "ml-2"
+                ],
+                "padding": [
+                    "pl-0",
+                    "pb-0",
+                    "pr-0"
+                ],
+                "borderWidth": 0,
+                "borderRadius": "none",
+                "borderColor": "border-primary",
+                "borderStyle": "none"
             }
         },
         "type": "ImageBlock",
-        "url": "/images/1000080324.jpg",
+        "url": "/images/1000079953.png",
         "elementId": "12"
     },
     "primaryLinks": [],
@@ -20,12 +31,12 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-11",
+                "pl-0",
                 "pr-0"
             ],
             "margin": [
-                "ml-1",
-                "mr-1"
+                "ml-0",
+                "mr-0"
             ]
         }
     }
