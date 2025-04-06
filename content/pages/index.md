@@ -120,7 +120,7 @@ sections:
         flexDirection: row
         padding:
           - pt-14
-          - pl-11
+          - pl-10
           - pb-16
           - pr-11
         margin:
