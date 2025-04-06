@@ -64,6 +64,7 @@ sections:
         alignItems: center
         padding:
           - pl-7
+          - pt-2
         margin:
           - ml-5
           - mt-4
