@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Welcome to Samir's Store
-        tagline: Lost
+        tagline: Samir
         subtitle: Increase your reach
         text: ''
         image:
