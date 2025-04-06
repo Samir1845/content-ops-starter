@@ -2,28 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: '                     SHOP NOW'
-        url: 'https://samir1845.github.io/online-store/'
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        showIcon: true
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -58,6 +36,28 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions:
+      - type: Button
+        label: '                     SHOP NOW'
+        url: 'https://samir1845.github.io/online-store/'
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        showIcon: true
+    media:
+      type: ImageBlock
+      altText: Fun feature preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: GenericSection
     title:
       type: TitleBlock
