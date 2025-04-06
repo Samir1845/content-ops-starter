@@ -62,6 +62,7 @@ sections:
           - pl-7
         margin:
           - ml-6
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
