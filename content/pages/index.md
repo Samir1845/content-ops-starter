@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Welcome to Samir's Store
-        tagline: Lost
+        tagline: Samir
         subtitle: Increase your reach
         text: ''
         image:
@@ -17,7 +17,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
