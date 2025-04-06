@@ -2,7 +2,6 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/1000079950.jpg",
         "altText": "Logo dark",
         "styles": {
             "self": {
