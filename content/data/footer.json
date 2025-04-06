@@ -8,5 +8,18 @@
     "legalLinks": [],
     "copyrightText": "© 2025.Samir's Store. All rights reserved.\n\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-1",
+                "pb-9",
+                "pl-0"
+            ],
+            "margin": [
+                "mt-2",
+                "ml-0"
+            ]
+        }
+    }
 }

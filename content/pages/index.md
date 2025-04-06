@@ -140,8 +140,6 @@ sections:
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
-      - altText: Contentful logo
-        type: ImageBlock
       - altText: Sanity logo
         type: ImageBlock
       - altText: Rangle logo
