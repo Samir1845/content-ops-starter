@@ -9,12 +9,24 @@
             }
         },
         "type": "ImageBlock",
-        "url": "/images/1000079953.png",
+        "url": "/images/1000080324.jpg",
         "elementId": "12"
     },
     "primaryLinks": [],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-left",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "padding": [
+                "pl-11",
+                "pr-0"
+            ],
+            "margin": [
+                "ml-1",
+                "mr-1"
+            ]
+        }
+    }
 }
