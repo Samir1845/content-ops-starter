@@ -83,6 +83,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        margin:
+          - mt-1
       subtitle:
         fontWeight: 700
         textAlign: justify
