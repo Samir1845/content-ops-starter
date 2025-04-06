@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/1000080324.jpg",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -9,11 +8,12 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/1000080325.jpg"
     },
     "primaryLinks": [],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-centered-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
