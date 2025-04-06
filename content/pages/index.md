@@ -58,6 +58,8 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pl-7
   - type: GenericSection
     title:
       type: TitleBlock
