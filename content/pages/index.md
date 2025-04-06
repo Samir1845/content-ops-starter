@@ -60,6 +60,8 @@ sections:
         alignItems: center
         padding:
           - pl-7
+        margin:
+          - ml-6
   - type: GenericSection
     title:
       type: TitleBlock
