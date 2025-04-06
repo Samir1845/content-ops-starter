@@ -20,7 +20,8 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-11"
+                "pl-11",
+                "pr-12"
             ],
             "margin": [
                 "ml-1"
