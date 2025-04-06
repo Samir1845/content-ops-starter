@@ -10,7 +10,8 @@
                     "pl-0"
                 ],
                 "borderWidth": 0,
-                "borderRadius": "xx-small"
+                "borderRadius": "xx-small",
+                "borderColor": "border-dark"
             }
         },
         "type": "ImageBlock",
