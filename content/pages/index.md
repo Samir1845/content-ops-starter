@@ -63,7 +63,7 @@ sections:
       self:
         alignItems: center
         padding:
-          - pl-6
+          - pl-5
           - pt-2
         margin:
           - ml-4
