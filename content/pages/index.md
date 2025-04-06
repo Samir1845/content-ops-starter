@@ -63,10 +63,10 @@ sections:
       self:
         alignItems: center
         padding:
-          - pl-7
+          - pl-6
           - pt-2
         margin:
-          - ml-5
+          - ml-4
           - mt-4
         justifyContent: center
   - type: DividerSection
