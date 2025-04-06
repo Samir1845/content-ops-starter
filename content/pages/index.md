@@ -49,7 +49,7 @@ sections:
         url: 'https://samir1845.github.io/online-store/'
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         showIcon: true
     media:
       type: ImageBlock
