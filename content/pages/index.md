@@ -34,6 +34,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pl-1
       subtitle:
         textAlign: center
   - type: GenericSection
