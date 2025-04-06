@@ -119,12 +119,13 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-14
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-0
+          - pl-5
+          - pb-0
+          - pr-4
         margin:
           - mt-1
+          - mr-2
       subtitle:
         fontWeight: 700
         textAlign: justify
