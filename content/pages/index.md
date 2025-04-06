@@ -139,7 +139,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-end
       subtitle:
         textAlign: center
     type: ImageGallerySection
