@@ -43,6 +43,33 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions:
+      - type: Button
+        label: '                     SHOP NOW'
+        url: 'https://samir1845.github.io/online-store/'
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        showIcon: true
+    media:
+      type: ImageBlock
+      altText: Fun feature preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        padding:
+          - pl-7
+        margin:
+          - ml-6
+        justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Discover top products
       color: text-dark
     subtitle: ''
@@ -86,33 +113,6 @@ sections:
       subtitle:
         fontWeight: 700
         textAlign: justify
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: '                     SHOP NOW'
-        url: 'https://samir1845.github.io/online-store/'
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        showIcon: true
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        padding:
-          - pl-7
-        margin:
-          - ml-6
-        justifyContent: center
   - subtitle: ''
     images:
       - url: /images/1000079951.jpg
