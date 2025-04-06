@@ -47,7 +47,7 @@ sections:
       - type: Button
         label: SHOP NOW
         url: 'https://samir1845.github.io/online-store/'
-        icon: arrowRight
+        icon: arrowDown
         iconPosition: right
         style: primary
         showIcon: true
