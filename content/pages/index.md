@@ -50,7 +50,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        showIcon: false
+        showIcon: true
     media:
       type: ImageBlock
       altText: Fun feature preview
