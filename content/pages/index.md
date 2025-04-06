@@ -125,6 +125,7 @@ sections:
           - pr-16
         margin:
           - mt-1
+          - mr-2
       subtitle:
         fontWeight: 700
         textAlign: justify
