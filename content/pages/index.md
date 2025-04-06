@@ -106,7 +106,7 @@ sections:
       5\. Your One-Stop Shop for Trending Products!
     actions: []
     media:
-      url: /images/1000079950.jpg
+      url: /images/1000080324.jpg
       altText: >-
         Discover the best online deals in fashion, electronics, beauty & more.
         Handpicked products just for you – shop smart, save big!
