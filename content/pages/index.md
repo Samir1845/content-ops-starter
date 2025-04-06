@@ -122,7 +122,7 @@ sections:
           - pt-0
           - pl-10
           - pb-0
-          - pr-12
+          - pr-16
         margin:
           - mt-1
       subtitle:
