@@ -13,7 +13,8 @@
         "self": {
             "padding": [
                 "pt-1",
-                "pb-9"
+                "pb-9",
+                "pl-8"
             ],
             "margin": [
                 "mt-2"
