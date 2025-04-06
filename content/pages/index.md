@@ -66,7 +66,7 @@ sections:
           - pl-5
           - pt-2
         margin:
-          - ml-4
+          - ml-3
           - mt-4
         justifyContent: center
   - type: DividerSection
