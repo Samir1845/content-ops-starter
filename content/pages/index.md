@@ -65,7 +65,7 @@ sections:
         padding:
           - pl-7
         margin:
-          - ml-6
+          - ml-5
         justifyContent: center
   - type: GenericSection
     title:
