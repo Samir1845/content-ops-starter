@@ -122,7 +122,7 @@ sections:
           - pt-0
           - pl-5
           - pb-0
-          - pr-7
+          - pr-4
         margin:
           - mt-1
           - mr-2
