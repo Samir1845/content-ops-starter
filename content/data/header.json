@@ -11,7 +11,7 @@
                     "pl-0"
                 ],
                 "borderWidth": 0,
-                "borderRadius": "medium",
+                "borderRadius": "small",
                 "borderColor": "border-primary",
                 "borderStyle": "none"
             }
