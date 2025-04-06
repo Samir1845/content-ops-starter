@@ -61,7 +61,7 @@
         "borderRadius": "xl",
         "shadow": "xl",
         "horizontalPadding": 30,
-        "verticalPadding": 0,
+        "verticalPadding": 4,
         "type": "ThemeStyleButton"
     },
     "buttonSecondary": {
