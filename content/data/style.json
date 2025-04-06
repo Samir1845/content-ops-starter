@@ -57,11 +57,11 @@
     "buttonPrimary": {
         "weight": "bold",
         "case": "none",
-        "letterSpacing": "normal",
-        "borderRadius": "lg",
-        "shadow": "none",
+        "letterSpacing": "wide",
+        "borderRadius": "xl",
+        "shadow": "xl",
         "horizontalPadding": 30,
-        "verticalPadding": 16,
+        "verticalPadding": 30,
         "type": "ThemeStyleButton"
     },
     "buttonSecondary": {
@@ -75,7 +75,7 @@
         "type": "ThemeStyleButton"
     },
     "linkPrimary": {
-        "weight": "normal",
+        "weight": "bold",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
