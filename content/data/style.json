@@ -57,7 +57,7 @@
     "buttonPrimary": {
         "weight": "bold",
         "case": "none",
-        "letterSpacing": "wider",
+        "letterSpacing": "wide",
         "borderRadius": "full",
         "shadow": "xl",
         "horizontalPadding": 30,
