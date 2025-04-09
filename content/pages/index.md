@@ -45,11 +45,7 @@ sections:
       subtitle:
         textAlign: justify
         fontWeight: 500
-    subtitle: >-
-      Sam's store is a participant in the Amazon Services LLC Associates
-      Program, an affiliate advertising program designed to provide a means for
-      sites to earn advertising fees by advertising and linking to Amazon.com.
-      As an Amazon Associate, I earn from qualifying purchases.
+    subtitle: ''
   - type: GenericSection
     title:
       type: TitleBlock
