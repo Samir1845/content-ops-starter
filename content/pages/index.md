@@ -40,6 +40,7 @@ sections:
           - ml-1
       subtitle:
         textAlign: center
+    subtitle: 'As an Amazon Associate, I earn from qualifying purchases.”'
   - type: GenericSection
     title:
       type: TitleBlock
