@@ -39,7 +39,7 @@ sections:
         margin:
           - ml-1
       subtitle:
-        textAlign: center
+        textAlign: justify
         fontWeight: 700
     subtitle: >-
       Sam's store is a participant in the Amazon Services LLC Associates
