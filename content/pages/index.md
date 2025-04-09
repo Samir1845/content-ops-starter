@@ -32,7 +32,7 @@ sections:
             textAlign: left
             borderRadius: large
             flexDirection: row
-            justifyContent: flex-start
+            justifyContent: center
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
