@@ -40,6 +40,7 @@ sections:
           - ml-1
       subtitle:
         textAlign: center
+        fontWeight: 700
     subtitle: >-
       Sam's store is a participant in the Amazon Services LLC Associates
       Program, an affiliate advertising program designed to provide a means for
