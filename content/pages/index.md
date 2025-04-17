@@ -177,7 +177,7 @@ sections:
 seo:
   metaTitle: Welcome to samir's store
   metaDescription: This is a shopping site created by samir
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/1000080324.jpg
   type: Seo
 type: PageLayout
 ---
