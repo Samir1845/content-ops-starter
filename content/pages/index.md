@@ -175,9 +175,9 @@ sections:
         textAlign: center
     type: ImageGallerySection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Welcome to samir's store
+  metaDescription: This is a shopping site created by samir
+  socialImage: /images/1000080324.jpg
   type: Seo
 type: PageLayout
 ---
