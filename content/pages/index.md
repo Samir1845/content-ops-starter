@@ -176,7 +176,7 @@ sections:
     type: ImageGallerySection
 seo:
   metaTitle: Welcome to samir's store
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: This is a shopping site created by samir
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
